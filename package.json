@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/epha1206/constructorHangman/issues"
   },
-  "homepage": "https://github.com/epha1206/constructorHangman#readme"
+  "homepage": "https://github.com/epha1206/constructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "word": "^0.2.4"
+  }
 }
