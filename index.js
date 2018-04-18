@@ -8,7 +8,7 @@ var words = [
     "lizard"
 ];
 
-var user new word(words);
+var user = new word(words);
 var dashed = user.randomWord();
 
 function askQuestion() {
