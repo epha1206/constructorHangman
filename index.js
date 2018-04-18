@@ -1,4 +1,4 @@
-var word = require("word");
+var word = require("./word.js");
 var inquirer = require("inquirer");
 
 var words = [
